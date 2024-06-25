@@ -15,7 +15,7 @@ public class Product {
         this.name = name;
         this.category = category;
         this.price = price;
-        this.quantity = quantity;
+        this.quantity = quantity ;
     }
 
     public String getName() {
